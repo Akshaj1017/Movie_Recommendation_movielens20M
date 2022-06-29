@@ -20,6 +20,12 @@ Jupyter Notebook
 * Most searched movie keyword
 * Genres representation
 
+# Installation
+* Download the dataset from the provided link. 
+* Download the ipynb file provided in the github repository.
+* Install necessary libraries.
+* Run the program!
+
 
 
 
