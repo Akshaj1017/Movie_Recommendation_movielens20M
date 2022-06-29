@@ -6,19 +6,19 @@ Data set has been taken from kaggle, you are required to download the folder whi
 https://www.kaggle.com/code/rafffael/geting-started-movie-recommendation-with-eda-demo/data
 
 # Library used
-* 1.Pywaffle
-* 2.Sqaurify
-* 3.Pandas-profiling
-* 4.wordcloud
+* Pywaffle
+* Sqaurify
+* Pandas-profiling
+* wordcloud
 
 # Tools 
 Jupyter Notebook
 
 # Queries
-Top 10 movies based on budget/revenue/profit
-Top production countries/companies
-Most searched movie keyword
-Genres representation
+* Top 10 movies based on budget/revenue/profit
+* Top production countries/companies
+* Most searched movie keyword
+* Genres representation
 
 
 
