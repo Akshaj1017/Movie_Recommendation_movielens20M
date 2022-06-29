@@ -6,10 +6,10 @@ Data set has been taken from kaggle, you are required to download the folder whi
 https://www.kaggle.com/code/rafffael/geting-started-movie-recommendation-with-eda-demo/data
 
 # Library used
-1.Pywaffle
-2.Sqaurify
-3.Pandas-profiling
-4.wordcloud
+* 1.Pywaffle
+* 2.Sqaurify
+* 3.Pandas-profiling
+* 4.wordcloud
 
 # Tools 
 Jupyter Notebook
